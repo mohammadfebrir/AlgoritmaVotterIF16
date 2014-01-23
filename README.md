@@ -1,4 +1,4 @@
 AlgoritmaVotterIF16
 ===================
 
-Algoritma Votter untuk meningkatkan kemampuan brute force dengan divide and conquer
+Algoritma Votter dengan Divide and Conquer untuk Pencocokkan String
